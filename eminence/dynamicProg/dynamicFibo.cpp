@@ -2,7 +2,7 @@
 
 using namespace std;
 
-int fib(int n, int * arr){
+int fib(int n, int * carr){
   if(n == 1 || n == 0){
     return 1;
   }
